@@ -43,7 +43,7 @@ Once you have installed Vcpkg, you can install the dependencies for building the
 
 After installing these libraries, run the following command prior to opening Visual Studio:
 
-`vcpky.exe integrate install`
+`.\vcpkg.exe integrate install`
 
 ## Visual Studio 2019
 
